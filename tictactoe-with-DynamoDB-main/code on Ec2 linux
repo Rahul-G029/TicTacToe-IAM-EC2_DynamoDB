@@ -1,0 +1,6 @@
+sudo su #(you will go into root)
+vim script.sh
+(paste all the comands that given in Readme)
+:wq
+chmod +x script.sh
+sh script.sh
