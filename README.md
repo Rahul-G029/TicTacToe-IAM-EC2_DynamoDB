@@ -139,10 +139,10 @@ Create a file named `config.ini` in the project directory with the following con
 ```ini
 [Settings]
 TableName = Games
-Region = ap-south-2
+Region = us-east-1
 
 [dynamodb]
-region=ap-south-2
+region=us-east-1
 endpoint=dynamodb.ap-south-2.amazonaws.com
 ```
 
