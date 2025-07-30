@@ -127,7 +127,7 @@ Clones the TicTacToe project repository from GitHub into the `/home/ec2-user/` d
 
 ```bash
 cd /home/ec2-user/
-git clone https://github.com/avizway1/tictactoe-with-DynamoDB.git
+git clone https://github.com/Rahul-G029/TicTacToe-IAM-EC2_DynamoDB.git
 ```
 
 ---
