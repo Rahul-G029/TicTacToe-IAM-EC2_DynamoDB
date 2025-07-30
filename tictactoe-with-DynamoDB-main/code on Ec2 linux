@@ -1,6 +1,7 @@
 sudo su #(you will go into root)
 vim script.sh
-(paste all the installations comands that given in Readme)
+(paste all the installations and clone commands that given in Readme)
 :wq
 chmod +x script.sh
 sh script.sh
+(paste Run the Application command given in Readme)
